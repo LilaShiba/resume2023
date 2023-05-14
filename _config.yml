@@ -1,1 +1,51 @@
-remote_theme: pages-themes/darkly
+# Site settings
+title: Resume 2023
+description: A cyberpunk-themed Resume
+theme: jekyll-theme-cyberpunk
+
+# Build settings
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude files from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# SEO settings
+seo:
+  type: website
+  name: My Cyberpunk GitHub Pages Site
+  description: A cyberpunk-themed GitHub Pages site.
+  image: /assets/images/cover.png
+  twitter:
+    username: mytwitterhandle
+  facebook:
+    app_id: 1234567890
+
+# Navigation links
+navbar_links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about.html
+  - title: Blog
+    url: /blog.html
+
+# Footer information
+footer_links:
+  - title: GitHub
+    url: https://github.com/myusername
+  - title: Twitter
+    url: https://twitter.com/mytwitterhandle
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/mylinkedinprofile
+
+# Customize the Jekyll theme
+# Add any additional configuration specific to your chosen Jekyll theme here
