@@ -21,14 +21,10 @@ exclude:
 # SEO settings
 seo:
   type: website
-  name: My Cyberpunk GitHub Pages Site
-  description: A cyberpunk-themed GitHub Pages site.
+  name: My Cyberpunk Resume
+  description: Please help me not starve
   image: /assets/images/cover.png
-  twitter:
-    username: mytwitterhandle
-  facebook:
-    app_id: 1234567890
-
+  
 # Navigation links
 navbar_links:
   - title: Home
@@ -41,11 +37,9 @@ navbar_links:
 # Footer information
 footer_links:
   - title: GitHub
-    url: https://github.com/myusername
-  - title: Twitter
-    url: https://twitter.com/mytwitterhandle
+    url: https://github.com/kyle1james
   - title: LinkedIn
-    url: https://www.linkedin.com/in/mylinkedinprofile
+    url: https://www.linkedin.com/in/shibawizard/
 
 # Customize the Jekyll theme
 # Add any additional configuration specific to your chosen Jekyll theme here
