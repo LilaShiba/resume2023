@@ -16,6 +16,7 @@ Georgia Institute of Technology | 2020 - 2024
 
 ### Masters of Arts, Cultural Sustainability 🌍
 Goucher College | 2010 - 2013
+- DI-Lab graduate researcher
 
 ## 💼 Professional Experience
 
