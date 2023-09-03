@@ -1,11 +1,11 @@
  
-# ✨Kyle James✨ 
+# ✨Lila James✨ 
 
 📍 Brooklyn, New York, United States  
-📧 kjams@gatech.edu  
+📧 ljames678@gmail.com
 
 ## 💁‍♀️ About Me
-Hi there! 👋 My name is Kyle and I'm a computer scientist with a passion for education and technology. 🖥️ When I'm not coding, you can usually find me spending time with my Shiba Inu 🐕, exploring the city, or reading a good book.
+Hi there! 👋 My name is Lila, and I'm a computer scientist with a passion for education and technology. 🖥️ When I'm not coding, you can usually find me spending time with my Shiba Inu 🐕, exploring the city, or reading a good book.
 
 As a cancer survivor 🎗️ and a member of the trans community 🌈, I am deeply committed to promoting diversity and inclusivity in all areas of my life. Whether I'm working on a coding project, teaching a class, or just enjoying time with friends, I strive to create a welcoming and supportive environment for everyone around me.
 
@@ -13,16 +13,19 @@ As a cancer survivor 🎗️ and a member of the trans community 🌈, I am deep
 
 ### Masters of Science - MS, Computer Science 🤖
 Georgia Institute of Technology | 2020 - 2024
-- DI-Lab graduate researcher
 
 ### Masters of Arts, Cultural Sustainability 🌍
 Goucher College | 2010 - 2013
 
 ## 💼 Professional Experience
 
+### NLP Researcher 🧑‍🏫
+[Design & Intelligence Lab](https://dilab.gatech.edu/) · Full-time
+Jan 2023 - Present · TBD
+
 ### Computer Science Instructor 🧑‍🏫
 Riverdale Country School · Full-time
-Jan 2023 - Present · 5 mos
+Jan 2023 - Present · TBD
 
 
 ### Associate Engineer 🚀
