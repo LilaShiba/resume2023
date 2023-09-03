@@ -22,11 +22,7 @@ Goucher College | 2010 - 2013
 ### NLP Researcher 🧑‍🏫
 [Design & Intelligence Lab](https://dilab.gatech.edu/) · Full-time
 Jan 2023 - Present · TBD
-
-### Computer Science Instructor 🧑‍🏫
-Riverdale Country School · Full-time
-Jan 2023 - Present · TBD
-
+- LLM RAG pipeline improvement through KILT, dual-encoders, and contrained beam search design ✨ 
 
 ### Associate Engineer 🚀
 Unqork | Apr 2021 - 2022
