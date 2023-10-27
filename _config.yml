@@ -1,45 +1,8 @@
 # Site settings
 title: Resume 2023
-description: A cyberpunk-themed Resume
-theme: jekyll-theme-cyberpunk
-
-# Build settings
+description: Lila James
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
-# Exclude files from the build
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
 
-# SEO settings
-seo:
-  type: website
-  name: My Cyberpunk Resume
-  description: Please help me not starve
-  image: /assets/images/cover.png
-  
-# Navigation links
-navbar_links:
-  - title: Home
-    url: /
-  - title: About
-    url: /about.html
-  - title: Blog
-    url: /blog.html
-
-# Footer information
-footer_links:
-  - title: GitHub
-    url: https://github.com/kyle1james
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/shibawizard/
-
-# Customize the Jekyll theme
-# Add any additional configuration specific to your chosen Jekyll theme here
