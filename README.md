@@ -2,8 +2,7 @@
 # ✨Lila James✨ 
 
 📍 Brooklyn, New York, United States  
-📧 ljames678@gmail.com
-
+📧 lilaresearch@gmail.com
 ## 💁‍♀️ About Me
 Hi there! 👋 My name is Lila, and I'm a computer scientist with a passion for education and technology. 🖥️ When I'm not coding, you can usually find me spending time with my Shiba Inu 🐕, exploring the city, or reading a good book.
 
