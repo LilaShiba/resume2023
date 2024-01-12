@@ -19,8 +19,7 @@ Goucher College | 2010 - 2013
 ## 💼 Professional Experience
 
 ### NLP Researcher 🧑‍🏫
-[Design & Intelligence Lab](https://dilab.gatech.edu/) · Full-time
-Jan 2023 - Present · TBD
+[Design & Intelligence Lab](https://dilab.gatech.edu/) ·Graduate Researcher 
 - LLM RAG pipeline improvement through KILT, dual-encoders, and contrained beam search design ✨ 
 
 ### Associate Engineer 🚀
@@ -31,9 +30,9 @@ Unqork | Apr 2021 - 2022
 ### Technical Trainer 📚
 Unqork | Aug 2020 - Jan 2021
 
-- 🚀 Co-design, build, and deliver proof of concepts for B2B sales.
+- 🚀 Co-design, build, and deliver proof of concepts for B2B sales > 1M.
 - 🎓 Co-teach at universities and serve as a subject matter expert on StackOverflow.
-- 📚 Develop training materials to upskill engineers and developers.
+- 📚 Develop training materials to upskill engineersc developers, and C-level employees.
 
 ### JavaScript Lead Instructor 🌟
 General Assembly | Mar 2020 - Aug 2020
