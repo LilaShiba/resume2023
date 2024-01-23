@@ -12,6 +12,8 @@ As a cancer survivor 🎗️ and a member of the trans community 🌈, I am deep
 
 ### Masters of Science - MS, Computer Science 🤖
 Georgia Institute of Technology | 2020 - 2024
+- [Foundational Model Research & Tool Creation](https://lilashiba.github.io/SND_Agents/)
+- [Vectorized Neural Network of complex neurons](https://github.com/LilaShiba/neural_collective_network)
 
 ### Masters of Arts, Cultural Sustainability 🌍
 Goucher College | 2010 - 2013
@@ -26,6 +28,8 @@ Goucher College | 2010 - 2013
 Unqork | Apr 2021 - 2022
 
 - 🛠️ Develop efficient development tools using higher level programming languages.
+- ❌ Position terminated due to Blood Cancer 
+
 
 ### Technical Trainer 📚
 Unqork | Aug 2020 - Jan 2021
@@ -33,11 +37,12 @@ Unqork | Aug 2020 - Jan 2021
 - 🚀 Co-design, build, and deliver proof of concepts for B2B sales > 1M.
 - 🎓 Co-teach at universities and serve as a subject matter expert on StackOverflow.
 - 📚 Develop training materials to upskill engineersc developers, and C-level employees.
+- ❌ Position terminated due to promotion 
 
 ### JavaScript Lead Instructor 🌟
 General Assembly | Mar 2020 - Aug 2020
 
-- 🎓 Create and expand on MERN stack development course.
+- 🎓 Create and expand on MERN stack development course. (stop-gap during covid)
 
 ### Product Developer & Technology Educator 🚀
 Decoded | Aug 2019 - Mar 2020
