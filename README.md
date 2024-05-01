@@ -13,17 +13,15 @@ My professional ethos revolves around cultivating welcoming and supportive envir
 ## 🎓 Education
 
 ### Masters of Science - MS, Computer Science
-- **Georgia Institute of Technology | 2020 - 2024**
+- #### Georgia Institute of Technology | 2020 - 2024
   - Relevant Work:
     - [LLM Collective Agent](https://github.com/LilaShiba/SND_Agents)
     - [Complex Neural Network](https://github.com/LilaShiba/neural_collective_network)
-
-### NLP Researcher 🧑‍🏫
-**[Design & Intelligence Lab](https://dilab.gatech.edu/) · Graduate Researcher**
-- LLM RAG pipeline enhancement via KILT, dual-encoders, and constrained beam search design ✨
-
+    - NLP Researcher 🧑‍🏫 [Design & Intelligence Lab](https://dilab.gatech.edu/) 
+    - LLM RAG pipeline enhancement via KILT, dual-encoders, and constrained beam search design ✨
+      
 ### Masters of Arts, Cultural Sustainability
-- **Goucher College | 2010 - 2013**
+- #### Goucher College | 2010 - 2013
 
 --- 
 
