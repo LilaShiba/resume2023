@@ -27,18 +27,12 @@ My professional ethos revolves around cultivating welcoming and supportive envir
 
 ## 💼 Professional Experience
 
-**Staff Engineer & Computer Science Teacher**
-
+### Staff Engineer & Computer Science Teacher
 **Riverdale Country School | 2022 - 2024**
-
 - Developed and implemented curriculum for computer science courses, ensuring alignment with educational standards and students' learning needs.
 - Mentored and supported students in individual and group projects, fostering critical thinking and problem-solving skills.
 - Led initiatives to enhance the school's technological infrastructure and support systems, improving efficiency and accessibility for students and faculty.
 - Conducted professional development sessions for staff members to promote the use of technology in teaching and learning.
-
-### NLP Researcher 🧑‍🏫
-**[Design & Intelligence Lab](https://dilab.gatech.edu/) · Graduate Researcher**
-- LLM RAG pipeline enhancement via KILT, dual-encoders, and constrained beam search design ✨
 
 ### Associate Engineer 🚀
 **Unqork | Apr 2021 - 2022**
