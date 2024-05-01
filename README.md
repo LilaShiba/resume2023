@@ -1,14 +1,17 @@
-# Lila James
-- **Location:** Brooklyn, New York, United States
-- **Email:** lilaresearch@gmail.com
-- **Website:** [Resume](https://lilashiba.github.io/resume2023/)
+# 🌟 Lila Josey James
+**🌍:** Brooklyn, New York, United States  
+**🚀:** lilaresearch@gmail.com  
+**🎨:** [Resume & Portfolio](https://github.com/LilaShiba)
+
 
 ## About Me
 Hi there! 👋 My name is Lila, and I'm a computer scientist with a passion for education and technology. When I'm not coding, you can usually find me spending time with my Shiba Inu 🐕, exploring the city, or reading a good book. As a cancer survivor 🎗 and a member of the trans community 🌈, I am deeply committed to promoting diversity and inclusivity in all areas of my life. Whether I'm working on a coding project, teaching a class, or just enjoying time with friends, I strive to create a welcoming and supportive environment for everyone around me. 
 
 ## Education
+
 - **Masters of Science - MS, Computer Science**
   - Georgia Institute of Technology | 2020 - 2024
+    
 - **Masters of Arts, Cultural Sustainability**
   - Goucher College | 2010 - 2013
 
