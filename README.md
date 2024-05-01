@@ -10,19 +10,33 @@ Greetings! 👋 I'm Lila Josey James, a dedicated computer scientist driven by a
 
 My professional ethos revolves around cultivating welcoming and supportive environments. Whether leading coding projects, imparting knowledge in educational settings, or simply enjoying moments with peers, I consistently strive to nurture an atmosphere where everyone feels valued and empowered to thrive.
 
-**Education**
+## 🎓 Education
 
-- **Masters of Science - MS, Computer Science**
-  - Georgia Institute of Technology | 2020 - 2024
+### Masters of Science - MS, Computer Science
+- **Georgia Institute of Technology | 2020 - 2024**
   - Relevant Work:
     - [LLM Collective Agent](https://github.com/LilaShiba/SND_Agents)
     - [Complex Neural Network](https://github.com/LilaShiba/neural_collective_network)
 
-- **Masters of Arts, Cultural Sustainability**
-  - Goucher College | 2010 - 2013
+### NLP Researcher 🧑‍🏫
+**[Design & Intelligence Lab](https://dilab.gatech.edu/) · Graduate Researcher**
+- LLM RAG pipeline enhancement via KILT, dual-encoders, and constrained beam search design ✨
+
+### Masters of Arts, Cultural Sustainability
+- **Goucher College | 2010 - 2013**
+
 --- 
 
 ## 💼 Professional Experience
+
+**Staff Engineer & Computer Science Teacher**
+
+**Riverdale Country School | 2022 - 2024**
+
+- Developed and implemented curriculum for computer science courses, ensuring alignment with educational standards and students' learning needs.
+- Mentored and supported students in individual and group projects, fostering critical thinking and problem-solving skills.
+- Led initiatives to enhance the school's technological infrastructure and support systems, improving efficiency and accessibility for students and faculty.
+- Conducted professional development sessions for staff members to promote the use of technology in teaching and learning.
 
 ### NLP Researcher 🧑‍🏫
 **[Design & Intelligence Lab](https://dilab.gatech.edu/) · Graduate Researcher**
