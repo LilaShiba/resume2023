@@ -1,23 +1,16 @@
-# ✨ Lila James ✨
+# Lila James
+- **Location:** Brooklyn, New York, United States
+- **Email:** lilaresearch@gmail.com
+- **Website:** [Resume](https://lilashiba.github.io/resume2023/)
 
-📍 **Brooklyn, New York, United States**  
-📧 **lilaresearch@gmail.com**
+## About Me
+Hi there! 👋 My name is Lila, and I'm a computer scientist with a passion for education and technology. When I'm not coding, you can usually find me spending time with my Shiba Inu 🐕, exploring the city, or reading a good book. As a cancer survivor 🎗 and a member of the trans community 🌈, I am deeply committed to promoting diversity and inclusivity in all areas of my life. Whether I'm working on a coding project, teaching a class, or just enjoying time with friends, I strive to create a welcoming and supportive environment for everyone around me. I've been involved in data engineering roles and projects that leverage my technical expertise and commitment to inclusivity.
 
-## 💁‍♀️ About Me
-
-Hi there! 👋 I'm Lila, a computer scientist with a fervent passion for education and technology. 🖥️ Outside of coding, I'm often found enjoying time with my Shiba Inu 🐕, exploring urban landscapes, or delving into a captivating book.
-
-As a proud cancer survivor 🎗️ and a vibrant member of the trans community 🌈, I am wholeheartedly dedicated to fostering diversity and inclusivity in every sphere of my life. Whether it's through coding projects, educational endeavors, or simply in my daily interactions, my goal is to cultivate a welcoming and supportive atmosphere for all.
-
-## 🎓 Education
-
-### Masters of Science - MS, Computer Science 🤖
-**Georgia Institute of Technology | 2020 - 2024**
-- [Foundational Model Research & Tool Creation](https://lilashiba.github.io/SND_Agents/)
-- [Vectorized Neural Network of complex neurons](https://github.com/LilaShiba/neural_collective_network)
-
-### Masters of Arts, Cultural Sustainability 🌍
-**Goucher College | 2010 - 2013**
+## Education
+- **Masters of Science - MS, Computer Science**
+  - Georgia Institute of Technology | 2020 - 2024
+- **Masters of Arts, Cultural Sustainability**
+  - Goucher College | 2010 - 2013
 
 ## 💼 Professional Experience
 
