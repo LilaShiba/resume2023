@@ -10,13 +10,17 @@ Greetings! 👋 I'm Lila Josey James, a dedicated computer scientist driven by a
 
 My professional ethos revolves around cultivating welcoming and supportive environments. Whether leading coding projects, imparting knowledge in educational settings, or simply enjoying moments with peers, I consistently strive to nurture an atmosphere where everyone feels valued and empowered to thrive.
 
-## Education
+**Education**
 
 - **Masters of Science - MS, Computer Science**
   - Georgia Institute of Technology | 2020 - 2024
-    
+  - Relevant Work:
+    - [LLM Collective Agent](https://github.com/LilaShiba/SND_Agents)
+    - [Complex Neural Network](https://github.com/LilaShiba/neural_collective_network)
+
 - **Masters of Arts, Cultural Sustainability**
   - Goucher College | 2010 - 2013
+--- 
 
 ## 💼 Professional Experience
 
