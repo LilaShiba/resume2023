@@ -4,7 +4,7 @@
 - **Website:** [Resume](https://lilashiba.github.io/resume2023/)
 
 ## About Me
-Hi there! 👋 My name is Lila, and I'm a computer scientist with a passion for education and technology. When I'm not coding, you can usually find me spending time with my Shiba Inu 🐕, exploring the city, or reading a good book. As a cancer survivor 🎗 and a member of the trans community 🌈, I am deeply committed to promoting diversity and inclusivity in all areas of my life. Whether I'm working on a coding project, teaching a class, or just enjoying time with friends, I strive to create a welcoming and supportive environment for everyone around me. I've been involved in data engineering roles and projects that leverage my technical expertise and commitment to inclusivity.
+Hi there! 👋 My name is Lila, and I'm a computer scientist with a passion for education and technology. When I'm not coding, you can usually find me spending time with my Shiba Inu 🐕, exploring the city, or reading a good book. As a cancer survivor 🎗 and a member of the trans community 🌈, I am deeply committed to promoting diversity and inclusivity in all areas of my life. Whether I'm working on a coding project, teaching a class, or just enjoying time with friends, I strive to create a welcoming and supportive environment for everyone around me. 
 
 ## Education
 - **Masters of Science - MS, Computer Science**
