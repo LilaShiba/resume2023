@@ -4,8 +4,11 @@
 **🎨:** [Resume & Portfolio](https://github.com/LilaShiba)
 
 
-## About Me
-Hi there! 👋 My name is Lila, and I'm a computer scientist with a passion for education and technology. When I'm not coding, you can usually find me spending time with my Shiba Inu 🐕, exploring the city, or reading a good book. As a cancer survivor 🎗 and a member of the trans community 🌈, I am deeply committed to promoting diversity and inclusivity in all areas of my life. Whether I'm working on a coding project, teaching a class, or just enjoying time with friends, I strive to create a welcoming and supportive environment for everyone around me. 
+**About Me**
+
+Greetings! 👋 I'm Lila Josey James, a dedicated computer scientist driven by a passion for education and technology. Beyond coding, you'll often find me cherishing moments with my Shiba Inu companion 🐕, exploring urban landscapes, or immersing myself in enriching literature. As a resilient cancer survivor 🎗️ and advocate within the trans community 🌈, I bring a profound commitment to fostering diversity and inclusivity in all facets of my endeavors.
+
+My professional ethos revolves around cultivating welcoming and supportive environments. Whether leading coding projects, imparting knowledge in educational settings, or simply enjoying moments with peers, I consistently strive to nurture an atmosphere where everyone feels valued and empowered to thrive.
 
 ## Education
 
