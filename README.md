@@ -31,7 +31,7 @@ My professional ethos revolves around cultivating welcoming and supportive envir
 
 ### Staff Engineer & Computer Science Teacher
 **Riverdale Country School | 2022 - 2024**
-- Developed and implemented curriculum for computer science courses, ensuring alignment with educational standards and students' learning needs.
+- Created bespoke software for administration including a network analysis of course catalog and creation of said catalog and all relationships.
 - Mentored and supported students in individual and group projects, fostering critical thinking and problem-solving skills.
 - Led initiatives to enhance the school's technological infrastructure and support systems, improving efficiency and accessibility for students and faculty.
 - Conducted professional development sessions for staff members to promote the use of technology in teaching and learning.
