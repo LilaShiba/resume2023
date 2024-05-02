@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 # 🌟 Lila Josey James
 **🌍:** Brooklyn, New York, United States  
 **🚀:** lilaresearch@gmail.com  
