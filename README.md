@@ -20,7 +20,6 @@ My professional ethos revolves around cultivating welcoming and supportive envir
     - [LLM Collective Agent](https://github.com/LilaShiba/SND_Agents)
     - [Complex Neural Network](https://github.com/LilaShiba/neural_collective_network)
     - NLP Researcher 🧑‍🏫 [Design & Intelligence Lab](https://dilab.gatech.edu/) 
-    - LLM RAG pipeline enhancement via KILT, dual-encoders, and constrained beam search design ✨
       
 ### Masters of Arts, Cultural Sustainability
 - #### Goucher College | 2010 - 2013
