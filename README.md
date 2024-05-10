@@ -26,7 +26,7 @@ My professional ethos revolves around cultivating welcoming and supportive envir
 - #### Goucher College | 2010 - 2013
   - Relevant Work:
     - Two year grant-funded solo multi-sited ethnography
-    - Northern Afirca, E.U., Republic of Ireland  
+    - Northern Africa, E.U., Republic of Ireland  
 
 --- 
 
