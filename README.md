@@ -33,7 +33,7 @@ My professional ethos revolves around cultivating welcoming and supportive envir
 
 ## 💼 Professional Experience
 
-### Staff Engineer & Computer Science Teacher
+### Staff Engineer & Computer Science Teacher 🍉
 #### Riverdale Country School | 2022 - 2024
 - Created bespoke software for administration including a network analysis of course catalog and creation of said catalog and all relationships.
 - Mentored and supported students in individual and group projects, fostering critical thinking and problem-solving skills.
