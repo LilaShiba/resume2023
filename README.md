@@ -39,7 +39,8 @@ My professional ethos revolves around cultivating welcoming and supportive envir
 - Mentored and supported students in individual and group projects, fostering critical thinking and problem-solving skills.
 - Led initiatives to enhance the school's technological infrastructure and support systems, improving efficiency and accessibility for students and faculty.
 - Conducted professional development sessions for staff members to promote the use of technology in teaching and learning.
-
+- ❌
+  
 ### Associate Engineer 🚀
 #### Unqork | Apr 2021 - 2022
 - 🛠️ Crafted efficient development tools utilizing advanced programming languages.
