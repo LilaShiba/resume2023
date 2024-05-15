@@ -54,7 +54,7 @@ My professional ethos revolves around cultivating welcoming and supportive envir
 
 ### JavaScript Lead Instructor 🌟
 #### General Assembly | Mar 2020 - Aug 2020
-- 🎓 Developed and enhanced the MERN stack development course during the COVID-19 pandemic & lack of 💖
+- 🎓 Developed and enhanced the MERN stack development course during the COVID-19 pandemic.
 
 ### Product Developer & Technology Educator 🚀
 #### Decoded | Aug 2019 - Mar 2020
