@@ -20,7 +20,8 @@ My professional ethos revolves around cultivating welcoming and supportive envir
     - [LLM Collective Agent](https://github.com/LilaShiba/SND_Agents)
     - [Complex Neural Network](https://github.com/LilaShiba/neural_collective_network)
     - [Tricorder for ADS](https://github.com/LilaShiba/third_wave)
-    - NLP Researcher 🧑‍🏫 [Design & Intelligence Lab](https://dilab.gatech.edu/) 
+    - NLP Researcher 🧑‍🏫 [Design & Intelligence Lab](https://dilab.gatech.edu/)
+    - ❌ Left to read books & find my cat 🦊🏹🌳🐈‍⬛
       
 ### Masters of Arts, Cultural Sustainability
 - #### Goucher College | 2010 - 2013
