@@ -54,9 +54,9 @@ Greetings! 👋 I'm Lila Josey James. You'll often find me cherishing moments wi
 
 ### Product Developer & Technology Educator 🚀
 #### Decoded | Aug 2019 - Mar 2020
-- 📈 Created and delivered innovative products to Fortune 500 companies, including data science boot camps and customized content and tools.
-- 🤖 Simplified complex concepts in machine learning, data science, blockchain, and cybersecurity.
-- 😷 Role ended due to the COVID-19 pandemic. Fond memories of Argentina.
+- 📈 
+- 🤖 
+- 😷 
 
 ### IB Computer Science Teacher 📚
 #### Dwight School | Aug 2017 - Jul 2019
