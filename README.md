@@ -28,7 +28,8 @@ My professional ethos revolves around cultivating welcoming and supportive envir
   - Relevant Work:
     - Two year grant-funded solo multi-sited ethnography
     - Northern Africa, E.U., Republic of Ireland
-    - Research on Identity formation & Capital Fetishes 
+    - Research on Identity formation & Capital Fetishes
+    - ❌ Left to teach 📗📙📖
 
 --- 
 
