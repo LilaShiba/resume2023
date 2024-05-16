@@ -8,7 +8,7 @@
 
 #### About Me
 
-Greetings! 👋 I'm Lila Josey James, a dedicated computer scientist driven by a passion for education and technology. Beyond coding, you'll often find me cherishing moments with my [Shiba Inu companion](https://www.mondou.com/en-CA/blogs/advice/dog/the-shiba-inu-japans-national-treasure-ad11.html) 🐕, exploring [urban landscapes](https://en.wikipedia.org/wiki/Dead_Horse_Bay), or immersing myself in enriching [literature](https://www.amazon.com/Too-Like-Lightning-Terra-Ignota/dp/0765378019). As a [resilient](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/intensive-chemotherapy) cancer survivor 🎗️ and advocate within the [trans community](https://www.plannedparenthood.org/learn/gender-identity/transgender) 🌈, I bring a profound commitment to fostering diversity and inclusivity in all facets of my endeav...
+Greetings! 👋 I'm Lila Josey James. You'll often find me cherishing moments with my [Shiba Inu companion](https://www.mondou.com/en-CA/blogs/advice/dog/the-shiba-inu-japans-national-treasure-ad11.html) 🐕, exploring [urban landscapes](https://en.wikipedia.org/wiki/Dead_Horse_Bay), or immersing myself in enriching [literature](https://www.amazon.com/Too-Like-Lightning-Terra-Ignota/dp/0765378019). As a [resilient](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/intensive-chemotherapy) cancer survivor 🎗️ and advocate within the [trans community](https://www.plannedparenthood.org/learn/gender-identity/transgender) 🌈, I bring a profound commitment to fostering diversity and inclusivity in all facets of my endeav...
 
 ## 🎓 Education
 
