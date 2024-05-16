@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-# 🌟 S🏳️‍⚧️r Lila Josey James
+# 🌟 [S🏳️‍⚧️r Lila Josey James](https://drive.google.com/drive/folders/1N2aS86WJToIhjn9yqR5MIogSWHtFNDYk?usp=sharing)
 **🌍:** Brooklyn, New York, United States  
 **🚀:** lilaresearch@gmail.com  
 **🎨:** [Resume & Portfolio](https://github.com/LilaShiba)
