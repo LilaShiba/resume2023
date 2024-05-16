@@ -37,26 +37,22 @@ My professional ethos revolves around cultivating welcoming and supportive envir
 
 ### Staff Engineer & Teacher 🍉
 #### Riverdale Country School | 2022 - 2024
-- Created bespoke software for administration including a network analysis of course catalog and creation of said catalog and all relationships.
-- Mentored and supported students in individual and group projects, fostering critical thinking and problem-solving skills.
-- Led initiatives to enhance the school's technological infrastructure and support systems, improving efficiency and accessibility for students and faculty.
 - ❌
   
 ### Associate Engineer 🚀
 #### Unqork | Apr 2021 - 2022
-- 🛠️ Crafted efficient development tools utilizing advanced programming languages.
+- 🛠️ 
 - 🎗️ Departure due to Blood Cancer diagnosis.
 
 ### Technical Trainer 📚
 #### Unqork | Aug 2020 - Jan 2021
-- 🚀 Designed and delivered B2B sales proof of concepts exceeding 1M.
-- 🎓 Engaged in co-teaching at universities and contributed as a subject matter expert (SME) on StackOverflow.
-- 📚 Developed comprehensive training materials to enhance the skills of engineers (both neophytes 🐍 and veterans), developers, and C-level executives.
+- 🚀 🌒
+- 🎓 
 - 🥇 Promoted to a new role.
 
 ### JavaScript Lead Instructor 🌟
 #### General Assembly | Mar 2020 - Aug 2020
-- 🎓 Developed and enhanced the MERN stack development course during the COVID-19 pandemic.
+- 😷
 
 ### Product Developer & Technology Educator 🚀
 #### Decoded | Aug 2019 - Mar 2020
@@ -66,11 +62,9 @@ My professional ethos revolves around cultivating welcoming and supportive envir
 
 ### IB Computer Science Teacher 📚
 #### Dwight School | Aug 2017 - Jul 2019
-- 👩‍🏫 Developed a comprehensive two-year Higher Level computer science course for the International Baccalaureate diploma program, emphasizing advanced algorithmic thinking and product development.
 - 🔝 Achieved a 300% increase in class size within a year.
 
 ### Secondary English Teacher 📚
 #### Teach For America | Jun 2013 - Jun 2015
-- 👩‍🏫 Taught English in underserved communities in rural Arkansas.
-- 🔍 Customized curriculum to meet individual learning needs.
-- 📈 Elevated student reading levels by an average of two grade levels.
+- 👩‍🏫 Learned English in underserved communities in rural Arkansas.
+- 🔍
