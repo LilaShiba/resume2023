@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-# 🌟 [S🏳️‍⚧️r Lila](https://drive.google.com/drive/folders/1N2aS86WJToIhjn9yqR5MIogSWHtFNDYk?usp=sharing) [Josey](https://www.washingtonpost.com/archive/local/1992/07/22/osprey-crash-probe-awaits-salvage/59364962-c294-43c5-af4f-f63ba71942fd/) James]
+# 🌟 [S🏳️‍⚧️r Lila](https://drive.google.com/drive/folders/1N2aS86WJToIhjn9yqR5MIogSWHtFNDYk?usp=sharing) [Josey](https://www.washingtonpost.com/archive/local/1992/07/22/osprey-crash-probe-awaits-salvage/59364962-c294-43c5-af4f-f63ba71942fd/) James
 **🌍:** Brooklyn, New York, United States  
 **🚀:** lilaresearch@gmail.com  
 **🎨:** [Resume & Portfolio](https://github.com/LilaShiba)
