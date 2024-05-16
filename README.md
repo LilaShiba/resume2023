@@ -14,7 +14,7 @@ My professional ethos revolves around cultivating welcoming and supportive envir
 
 ## 🎓 Education
 
-### Masters of Science - MS, Computer Science
+### Masters of Science & Light - MS, Computer Science
 - #### Georgia Institute of Technology | 2020 - 2024
   - Relevant Work:
     - [LLM Collective Agent](https://github.com/LilaShiba/SND_Agents)
@@ -23,7 +23,7 @@ My professional ethos revolves around cultivating welcoming and supportive envir
     - NLP Researcher 🧑‍🏫 [Design & Intelligence Lab](https://dilab.gatech.edu/)
     - ❌ Left to read books & find my cat 🦊🏹🌳🐈‍⬛
       
-### Masters of Arts, Cultural Sustainability
+### Masters of Arts & Tricks, Cultural Sustainability
 - #### Goucher College | 2010 - 2013
   - Relevant Work:
     - Two year grant-funded solo multi-sited ethnography
