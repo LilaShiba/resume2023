@@ -28,7 +28,7 @@ Greetings! 👋 I'm Lila Josey James. You'll often find me cherishing moments wi
     - Northern Africa, E.U., Republic of Ireland
     - Research on Identity formation & Capital Fetishes
     - ❌ Left to teach 📗📙📖
-    - Thank you Rory 🌱
+    - Thank you Rory [🌱](https://en.wikipedia.org/wiki/The_Man_Who_Planted_Trees)
 
 --- 
 
