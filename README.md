@@ -19,7 +19,7 @@ Greetings! 👋 I'm Lila Josey James. You'll often find me cherishing moments wi
     - [Complex Neural Network](https://github.com/LilaShiba/neural_collective_network)
     - [Tricorder for ADS](https://github.com/LilaShiba/third_wave)
     - Researcher 🧑‍🏫 [Design & Intelligence Lab](https://dilab.gatech.edu/)
-    - ❌ Left to read books & find my cat 🦊🏹🌳🐈‍⬛
+    - ❌ Left to read books & find my cat 🦊🏹🌳[🐈‍⬛](https://en.wikipedia.org/wiki/Pangur_B%C3%A1n)
       
 ### Masters of Arts & Tricks, Cultural Sustainability
 - #### Goucher College | 2010 - 2013
