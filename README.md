@@ -20,6 +20,7 @@ Greetings! 👋 I'm Lila Josey James. You'll often find me cherishing moments wi
     - [Tricorder for ADS](https://github.com/LilaShiba/third_wave)
     - Researcher 🧑‍🏫 [Design & Intelligence Lab](https://dilab.gatech.edu/)
     - ❌ Left to read books & find my cat 🦊🏹🌳[🐈‍⬛](https://en.wikipedia.org/wiki/Pangur_B%C3%A1n)
+    - For Luna, I'll carry you in my heart 💖
       
 ### Masters of Arts & Tricks, Cultural Sustainability
 - #### Goucher College | 2010 - 2013
