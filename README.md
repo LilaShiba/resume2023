@@ -69,7 +69,7 @@ Greetings! 👋 I'm Lila Josey James. You'll often find me cherishing moments wi
 ### Secondary English Teacher 📚
 #### Teach For America | Jun 2013 - Jun 2015
 - 👩‍🏫 Learned English in underserved communities in rural Arkansas.
-- 🔍
+- [🔍](https://github.com/LilaShiba/resume2024/blob/main/Screenshot%202024-05-19%20at%208.06.08%20AM.png)
 
 
 [💖](https://github.com/LilaShiba/resume2024/blob/main/Screenshot%202024-05-17%20at%2012.07.51%20PM.png)
