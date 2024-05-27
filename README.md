@@ -1,11 +1,11 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-2049
-
 # 🌟 [S🏳️‍⚧️r Lila](https://drive.google.com/drive/folders/1N2aS86WJToIhjn9yqR5MIogSWHtFNDYk?usp=sharing) [Josey](https://www.washingtonpost.com/archive/local/1992/07/22/osprey-crash-probe-awaits-salvage/59364962-c294-43c5-af4f-f63ba71942fd/) James
 **🌍:** [Brooklyn](https://academic.oup.com/mnras/article/504/2/1619/6224872)
 **🚀:** lilaresearch@gmail.com  
 **🎨:** [Resume & Portfolio](https://github.com/LilaShiba)
+**❤️💙:** Blade runner 
+
 
 
 #### [About Me](https://www.youtube.com/watch?v=f3l9KrTye98)
