@@ -8,8 +8,7 @@
 
 
 
-#### [About Me](https://www.youtube.com/watch?v=f3l9KrTye98)
-
+#### About Me
 Greetings! 👋 I'm Lila Josey James. You'll often find me cherishing moments with my [Shiba Inu companion](https://www.mondou.com/en-CA/blogs/advice/dog/the-shiba-inu-japans-national-treasure-ad11.html) 🐕, exploring [urban landscapes](https://en.wikipedia.org/wiki/Dead_Horse_Bay), or immersing myself in enriching [literature](https://www.amazon.com/Too-Like-Lightning-Terra-Ignota/dp/0765378019). As a [resilient](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/intensive-chemotherapy) cancer survivor 🎗️ and advocate within the [trans community](https://www.plannedparenthood.org/learn/gender-identity/transgender) 🌈, I bring a profound commitment to fostering diversity and inclusivity in all facets of my endeav...
 
 #### [🛸 My Current Research](https://lilashiba.github.io/Quantum_Collapse_Neuron/)
@@ -44,12 +43,12 @@ Greetings! 👋 I'm Lila Josey James. You'll often find me cherishing moments wi
 #### Riverdale Country School | 2022 - 2024
 - ❌
   
-### Associate Engineer 🚀
+### Engineer 🚀
 #### Unqork | Apr 2021 - 2022
 - 🛠️ 
 - 🎗️ Departure due to Blood Cancer diagnosis.
 
-### Technical Trainer 📚
+### Product Dev & Technical Trainer 📚
 #### Unqork | Aug 2020 - Jan 2021
 - 🚀 🌒
 - 🎓 
@@ -57,11 +56,12 @@ Greetings! 👋 I'm Lila Josey James. You'll often find me cherishing moments wi
 
 ### JavaScript Lead Instructor 🌟
 #### General Assembly | Mar 2020 - Aug 2020
+- MERN Stack
 - 😷
 
 ### Product Developer & Technology Educator 🚀
 #### Decoded | Aug 2019 - Mar 2020
-- 📈 
+- Technology Consultant to C-level Fortune 500
 - 🤖 
 - 😷 
 
