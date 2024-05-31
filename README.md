@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
 # 🌟 S🏳️‍⚧️r Lila Josey James
-**🌍:** [Brooklyn](https://academic.oup.com/mnras/article/504/2/1619/6224872)
+**🌍:** [Brooklyn](https://www.tripadvisor.com/Attraction_Review-g60827-d2433040-Reviews-Cobble_Hill-Brooklyn_New_York.html)
 **🚀:** lilaresearch@gmail.com  
 **🎨:** [Resume & Portfolio](https://github.com/LilaShiba)
 **❤️💙:** Blade runner 
