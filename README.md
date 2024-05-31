@@ -40,37 +40,37 @@ Greetings! 👋 I'm Lila Josey James. You'll often find me cherishing moments wi
 ## 💼 Professional Experience
 
 ### Staff Engineer & Teacher 🍉
-#### Riverdale Country School | 2022 - 2024
+#### [Riverdale Country School](https://en.wikipedia.org/wiki/Riverdale_Country_School) | 2022 - 2024
 - ❌
   
-### Engineer 🚀
-#### Unqork | Apr 2021 - 2022
-- 🛠️ 
+### Engineer 🦄
+#### [Unqork](https://news.crunchbase.com/unicorn-company-list/) | Apr 2021 - 2022
+- 🛠️ Built & rode wave until Unicorn Status 
 - 🎗️ Departure due to Blood Cancer diagnosis.
 
 ### Product Dev & Technical Trainer 📚
-#### Unqork | Aug 2020 - Jan 2021
+####  [Unqork](https://news.crunchbase.com/unicorn-company-list/)  | Aug 2020 - Jan 2021
 - 🚀 🌒
 - 🎓 
 - 🥇 Promoted to a new role.
 
 ### JavaScript Lead Instructor 🌟
-#### General Assembly | Mar 2020 - Aug 2020
-- MERN Stack
+#### [General Assembly](https://generalassemb.ly/?&utm_source=google&utm_medium=paid-search-bra&utm_campaign=TS:TX:BRA:NYC:BR:GeneralAssembly&gad_source=1&gclid=Cj0KCQjw6uWyBhD1ARIsAIMcADpf_EDeoV0tKLwi29WdMmqmgr92wbsihcuFc9diIyZClVKb5GnVIYYaAu-qEALw_wcB&gclsrc=aw.ds)| Mar 2020 - Aug 2020
+- [MERN Stack](https://generalassemb.ly/students/courses?formatShortCourses=true&utm_source=google&utm_medium=paid-search-bra&utm_campaign=TS:TX:BRA:NYC:BR:GeneralAssembly&gad_source=1&gclid=Cj0KCQjw6uWyBhD1ARIsAIMcADpdZOVr4-5O_ckuSYjM2E8G5VPmwr8RF3Z99ZZRumFIzqM4yd_t5F8aAmqOEALw_wcB&gclsrc=aw.ds)
 - 😷
 
 ### Product Developer & Technology Educator 🚀
-#### Decoded | Aug 2019 - Mar 2020
+#### [Decoded](https://decoded.com/) | Aug 2019 - Mar 2020
 - Technology Consultant to C-level Fortune 500
 - 🤖 
 - 😷 
 
 ### IB Computer Science Teacher 📚
-#### Dwight School | Aug 2017 - Jul 2019
+#### [Dwight School](https://en.wikipedia.org/wiki/Dwight_School) | Aug 2017 - Jul 2019
 - 🔝 Achieved a 300% increase in class size within a year.
 
 ### Secondary English Teacher 📚
-#### Teach For America | Jun 2013 - Jun 2015
+#### [Teach For America](https://www.teachforamerica.org/educational-equity-quiz?utm_content=mktg_recruitment_fy20&gad_source=1&gclid=Cj0KCQjw6uWyBhD1ARIsAIMcADrPGkbVmK3QR2Tu7_ztPwdqeNllUyjIVkorqyojDhcRQ-mEfjgOflUaAtv8EALw_wcB) | Jun 2013 - Jun 2015
 - 👩‍🏫 Learned English in underserved communities in rural Arkansas.
 - [🔍](https://github.com/LilaShiba/resume2024/blob/main/Screenshot%202024-05-19%20at%208.06.08%20AM.png)
 
