@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-# 🌟 S🏳️‍⚧️r Lila Josey James
+# 🌟 Lila Josey James
 **🌍:** [Brooklyn](https://www.tripadvisor.com/Attraction_Review-g60827-d2433040-Reviews-Cobble_Hill-Brooklyn_New_York.html)
 **🚀:** lilaresearch@gmail.com  
 **🎨:** [Resume & Portfolio](https://github.com/LilaShiba)
