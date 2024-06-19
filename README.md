@@ -18,7 +18,7 @@ I've deployed LLM's across several Massive Online Courses, and worked specifical
 
 ## 🎓 Education
 
-### Masters of Science & Light - MS, Computer Science
+### Masters of Science - MS, Computer Science
 - #### Georgia Institute of Technology | 2020 - 2024
   - Relevant Work:
     - [LLM Collective Agent](https://github.com/LilaShiba/SND_Agents)
@@ -28,7 +28,7 @@ I've deployed LLM's across several Massive Online Courses, and worked specifical
     - ❌ Left to read books & find my cat 🦊🏹🌳[🐈‍⬛](https://en.wikipedia.org/wiki/Pangur_B%C3%A1n)
     - For Luna, I'll carry you in my heart 💖
       
-### Masters of Arts & Tricks, Cultural Sustainability
+### Masters of Arts, Cultural Sustainability
 - #### Goucher College | 2010 - 2013
   - Relevant Work:
     - Two year grant-funded solo multi-sited ethnography
